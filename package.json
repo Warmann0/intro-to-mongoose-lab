@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "morgan": "^1.10.0",
     "prompt-sync": "^4.2.0"
   }
 }
